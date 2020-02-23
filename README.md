@@ -1,5 +1,6 @@
 # laravel-toast
-Simple toast messages for Laravel 5.
+Simple toast messages for Laravel 6.x
+- Original repo forked from grimthorr for usage in private projects.
 
 
 ## Installation
